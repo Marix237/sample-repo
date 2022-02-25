@@ -1,0 +1,1 @@
+print ('Anold Schwazzeneger once said "strength does not come from winning, your struggles develop your strength, when you go through hardship and decide not to surrender, that is strength." ')
